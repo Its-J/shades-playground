@@ -28,6 +28,7 @@
 - get the custom/media module working in waybar
 - make temp module in waybar yellow/red if it gets too hot. same with cpu/mem?
 - get better battery icon for charging. maybe a way to get font awesome 7 pro stuff in? (even tho its paid but theres a free thing on the aur)
+- config notification box
 
 Completed Items:
 - change meta+shift+q bidn for closing window in sway config to meta+ q
